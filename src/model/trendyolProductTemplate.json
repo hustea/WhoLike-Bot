@@ -1,0 +1,106 @@
+{
+  "id": 777204729,
+  "name": "Gaming Atari 2.4g Uyumlu Kablosuz Çift Kol Atari Retro 20000 Oyun Game Stick",
+  "images": [
+    "/ty1121/product/media/images/prod/SPM/PIM/20240105/12/4d6ac851-0176-3285-9f88-0e4400a475e5/1_org_zoom.jpg",
+    "/ty1120/product/media/images/prod/SPM/PIM/20240105/12/1d1566a7-b199-332f-a82b-7a4d4805490f/1_org_zoom.jpg",
+    "/ty1121/product/media/images/prod/SPM/PIM/20240105/12/34556abb-39ef-30c0-bae2-c7ac944d444c/1_org_zoom.jpg",
+    "/ty1119/product/media/images/prod/SPM/PIM/20240105/12/0e5aa25d-982d-30d7-98fd-f53020cc2d7b/1_org_zoom.jpg",
+    "/ty1120/product/media/images/prod/SPM/PIM/20240105/12/73f74434-6ba4-33a0-a3d3-818403b7dbbc/1_org_zoom.jpg",
+    "/ty1120/product/media/images/prod/SPM/PIM/20240105/12/9be8ab2a-96a0-3468-8e5d-265a7587a75c/1_org_zoom.jpg",
+    "/ty1121/product/media/images/prod/SPM/PIM/20240105/12/aff4a5ed-5764-3fb0-92fd-669261e74a57/1_org_zoom.jpg"
+  ],
+  "imageAlt": "Teknoloji Gelsin Gaming Atari 2.4g Uyumlu Kablosuz Çift Kol Atari Retro 20000 Oyun Game Stick",
+  "brand": {
+    "id": 164648,
+    "name": "Teknoloji Gelsin"
+  },
+  "tax": 20,
+  "ratingScore": {
+    "averageRating": 3.7916666666666665,
+    "totalCount": 24
+  },
+  "showSexualContent": true,
+  "productGroupId": 592579471,
+  "hasReviewPhoto": true,
+  "cardType": "PRODUCT",
+  "sections": [
+    {
+      "id": "5"
+    }
+  ],
+  "variants": [
+    {
+      "attributeValue": "Tek Ebat",
+      "attributeName": "beden",
+      "price": {
+        "discountedPrice": 1249,
+        "buyingPrice": 0,
+        "originalPrice": 1249,
+        "sellingPrice": 1249
+      },
+      "listingId": "c29682306d973d9fcf8deb4aec8aaef5",
+      "campaignId": 61,
+      "merchantId": 117925,
+      "discountedPriceInfo": "",
+      "hasCollectableCoupon": false,
+      "sameDayShipping": false
+    }
+  ],
+  "categoryHierarchy": "Oyun & Oyun Konsolları/Elektronik/Diğer Oyun Konsolları",
+  "categoryId": 1901,
+  "categoryName": "Diğer Oyun Konsolları",
+  "url": "/teknoloji-gelsin/gaming-atari-2-4g-uyumlu-kablosuz-cift-kol-atari-retro-20000-oyun-game-stick-p-777204729?boutiqueId=61&merchantId=117925",
+  "merchantId": 117925,
+  "campaignId": 61,
+  "price": {
+    "sellingPrice": 1249,
+    "originalPrice": 1249,
+    "discountedPrice": 1249,
+    "buyingPrice": 0
+  },
+  "promotions": [
+    {
+      "id": 8783604,
+      "name": "2.500 TL'ye 100 TL İndirim",
+      "shortName": "Çok Al Az Öde",
+      "promotionEndDate": "2024-12-31T23:59:00",
+      "discountType": 2
+    }
+  ],
+  "rushDeliveryDuration": 24,
+  "freeCargo": true,
+  "campaignName": "Tüm Ürünler",
+  "listingId": "c29682306d973d9fcf8deb4aec8aaef5",
+  "winnerVariant": "Tek Ebat",
+  "itemNumber": 1028912658,
+  "discountedPriceInfo": "",
+  "hasVideoContent": false,
+  "hasCrossPromotion": true,
+  "hasCollectableCoupon": false,
+  "sameDayShipping": false,
+  "isLegalRequirementConfirmed": false,
+  "badges": [
+    {
+      "title": "Çok Al Az Öde",
+      "type": "TAKE_MORE_PAY_LESS",
+      "priority": true
+    },
+    {
+      "title": "Hızlı Teslimat",
+      "type": "RUSH_DELIVERY"
+    },
+    {
+      "title": "Kargo Bedava",
+      "type": "FREE_CARGO"
+    },
+    {
+      "title": "Birlikte Al Kazan",
+      "type": "CROSS_PROMOTION"
+    },
+    {
+      "title": "Krediye Uygun",
+      "type": "CREDIT_SUITABLE"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "wholike-bot",
+  "version": "1.0.0",
+  "description": "a Scraper Bot for WhoLike Project",
+  "main": "src/index.js",
+  "scripts": {
+    "test-ksl": "ksl --interpret unit.ksl",
+    "test": "node tests/unit.js",
+    "dev": "node preload.js dev",
+    "prod": "node preload.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhoLike/Bot.git"
+  },
+  "keywords": [
+    "scraper",
+    "bot",
+    "e-commerce"
+  ],
+  "author": "alipoyrazaydin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/WhoLike/Bot/issues"
+  },
+  "homepage": "https://github.com/WhoLike/Bot#readme",
+  "dependencies": {
+    "@types/node": "^20.10.4",
+    "axios": "^1.6.2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "apiUrl": "http://localhost/",
+    "apiKey": "12jkl123",
+    "apiEndpoints": {
+        "write": "api/bot/push"
+    }
+}
